@@ -4,17 +4,6 @@
 ![Language](https://img.shields.io/badge/language-C-blue)
 ![Grade](https://img.shields.io/badge/grade-100%2F100-brightgreen)
 
-## Table of Contents
-
-1. [Introduction](#introduction)
-2. [Overview](#overview)
-3. [Requirements](#requirements)
-4. [Installation](#installation)
-5. [Usage](#usage)
-6. [Features](#features)
-7. [Contributing](#contributing)
-8. [License](#license)
-
 ---
 
 ## Introduction
